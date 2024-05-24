@@ -9,8 +9,3 @@ This repo contains datasets and analysis for the above paper. The four main fold
 
 To access the raw data, visit: https://huggingface.co/datasets/ClimatePolicyRadar/global-stocktake-documents
 
-TODO:
-- clean code
-- get topic modelling
-- pull in large dataset
-
